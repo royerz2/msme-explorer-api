@@ -996,7 +996,7 @@ def download_raw_data():
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
-    port = int(os.getenv('PORT', 5001))
+    port = int(os.getenv('PORT', 8000))
     host = os.getenv('HOST', '0.0.0.0')
     debug = os.getenv('FLASK_DEBUG', '1') == '1'
     
