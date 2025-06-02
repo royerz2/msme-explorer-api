@@ -1,0 +1,382 @@
+Gender,Respondent Age,Education,Position,Working period,City,Business fields,Current active workforce,MSME age,Double partnership (DP),Triple partnership (TP),AU,INN,RT,PA,CA,OEO,OPC,RC,CCC,ORC,STC,CMC,OEC,SU,SY,CO,REO,OSRS,IA,II,IT_SM,IT_CS,IT_PD,IT_DM,IT_KM,IT_SCM,ODTA
+Female,31-40 years,Senior High School,Owner,6-10 years,Palembang,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,1,3,2,2,4,2,2,2,3,3,5,3,4,4,3,3,3,5,4,5,3,5,4,5,4,4
+Female,31-40 years,Senior High School,Owner,6-10 years,Palembang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,2,7,6,7,7,3,5,3,7,7,7,5,5,5,5,5,5,3,3,3,3,4,4,3,3
+Female,41-50 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,5,7,5,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,41-50 years,Bachelor,Others,<= 5 years,Bandung,Trading,1-4 workers,<=5 years,Never partnered,Never partnered,4,4,4,4,4,5,5,5,5,5,6,6,6,4,4,5,4,4,4,4,5,5,4,4,5,4,3
+Female,41-50 years,Bachelor,Owner,<= 5 years,Bandung,F&B,5-19 workers,<=5 years,Never partnered,Never partnered,6,6,5,5,6,5,6,5,5,5,5,5,5,3,4,4,4,4,5,5,4,4,4,3,4,4,4
+Male,41-50 years,Senior High School,Owner,11-15 years,Tangerang Selatan,F&B,1-4 workers,11-15 years,Never partnered,Never partnered,6,6,6,6,6,5,6,6,6,6,6,4,6,3,4,4,4,4,4,4,3,3,4,4,4,4,4
+Female,41-50 years,Bachelor,Owner,6-10 years,Bandung,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,7,5,7,6,6,3,3,6,4,4,7,7,5,5,5,5,5,5,5,5,5,5,5,1,5,5
+Female,41-50 years,Senior High School,Owner,11-15 years,Tangerang Selatan,Online shop,1-4 workers,11-15 years,Never partnered,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,7,5,4,4,4,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Tangerang Selatan,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,5,6,7,4,7,6,6,7,6,5,7,6,4,3,5,5,5,5,5,5,4,4,3,5,5,4
+Female,41-50 years,Doctor,Owner,11-15 years,Bandung,Jasa,1-4 workers,11-15 years,Never partnered,Never partnered,5,5,5,6,5,4,4,5,6,5,5,4,5,3,3,3,2,2,4,4,4,4,5,5,4,4,4
+Female,41-50 years,Bachelor,Owner,6-10 years,Bandung,F&B,5-19 workers,6-10 years,Never partnered,Never partnered,7,3,1,6,5,6,4,7,5,5,5,7,6,3,5,4,4,4,4,4,3,3,3,5,5,5,3
+Female,41-50 years,Bachelor,Owner,6-10 years,Bandung,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,7,4,2,6,1,5,4,5,6,6,6,6,5,3,3,3,3,3,4,4,5,5,5,5,5,5,5
+Female,41-50 years,Doctor,Others,<= 5 years,Bandung,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,4,2,4,5,2,4,5,4,6,5,6,5,4,3,3,2,1,3,4,3,2,2,3,3,5,3,2
+Female,<= 30 years,Bachelor,Others,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,7,5,4,5,6,6,6,6,6,6,6,6,3,3,4,3,3,3,4,3,4,4,4,4,4,4
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,6,5,6,3,4,5,5,6,5,5,5,4,4,4,5,3,3,5,5,5,5,5,5,5,5,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Bandung,Online shop,1-4 workers,<=5 years,Never partnered,Never partnered,7,5,5,7,6,7,7,7,7,5,5,6,7,4,4,5,4,4,4,3,5,5,5,5,5,5,5
+Female,41-50 years,Bachelor,Management team,11-15 years,Bandung,Printing,5-19 workers,11-15 years,MSME-Industry,MSME-Government-Industry,7,7,7,7,7,7,7,7,7,7,7,7,7,5,4,5,5,5,5,5,5,5,5,5,5,5,5
+Female,41-50 years,Bachelor,Owner,6-10 years,Bandung,Trading,1-4 workers,6-10 years,MSME-Government,Never partnered,7,4,5,6,5,4,2,4,5,3,3,2,4,1,2,3,2,2,5,5,4,4,4,4,4,4,4
+Female,51-60 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,3,3,5,2,1,5,5,5,3,4,5,6,4,3,2,2,4,4,2,1,1,3,4,4,2,2
+Female,41-50 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,2,2,1,2,3,2,1
+Female,31-40 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,7,7,6,6,6,7,7,7,6,6,6,6,7,4,4,4,4,5,4,4,3,3,5,4,5,4,3
+Female,41-50 years,Bachelor,Owner,6-10 years,Bandung,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,5,5,3,5,5,3,4,6,6,5,5,5,5,5,4,4,4,4,5,3,4,4,4,4,4,3,2
+Male,41-50 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,5,6,5,4,5,5,7,7,5,5,7,5,4,5,5,4,5,5,5,5,5,5,4,5,4,4
+Female,31-40 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,7,7,5,7,5,7,7,7,6,5,6,5,6,3,3,5,3,5,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,5,1,1,1,1,5,5,3,3
+Female,41-50 years,Senior High School,Owner,11-15 years,Rancaekek,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,1,2,6,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,51-60 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,6,6,4,1,4,6,6,6,5,6,6,6,6,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Female,41-50 years,Junior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,2,7,7,3,7,7,6,1,7,7,7,1,1,5,5,5,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,7,7,6,6,7,6,6,7,6,6,6,7,6,4,4,5,4,4,3,1,5,5,5,4,4,4,4
+Female,51-60 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,5,5,6,6,6,5,6,6,6,4,3,6,4,4,4,4,4,3,4,2,4,4,4,4,4,3,3
+Female,41-50 years,Bachelor,Management team,11-15 years,Bandung,F&B,1-4 workers,11-15 years,Never partnered,Never partnered,4,3,2,3,2,5,3,6,5,6,2,6,5,4,4,4,4,3,5,4,5,5,5,3,2,3,3
+Female,41-50 years,Bachelor,Owner,<= 5 years,Cimahi,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,7,4,4,5,6,6,6,6,6,7,7,3,5,4,5,5,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,7,1,7,7,1,7,7,7,7,1,7,7,7,3,3,5,3,5,5,3,3,3,3,3,3,3,3
+Male,31-40 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,MSME-Government-University,5,6,6,6,5,6,6,6,6,6,6,6,6,5,4,5,5,4,3,3,3,3,5,5,4,4,4
+Female,51-60 years,Bachelor,Owner,6-10 years,Bandung,F&B,1-4 workers,6-10 years,MSME-University,Never partnered,5,5,4,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,5,4,5,4,5,4,4,3,4
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,MSME-Industry-University,6,6,5,5,7,5,5,5,5,5,5,6,6,4,4,4,3,5,4,4,4,4,4,5,4,4,4
+Female,51-60 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,7,6,1,7,7,7,7,7,7,7,7,7,7,5,5,2,2,5,5,1,4,4,5,4,4,2,5
+Female,51-60 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,4,1,4,3,5,5,6,6,5,5,5,5,3,3,3,3,5,5,4,3,3,3,3,4,2,3
+Female,31-40 years,Bachelor,Owner,6-10 years,Bandung,F&B,1-4 workers,6-10 years,MSME-Government,MSME-Government-University,6,6,5,7,5,6,5,7,7,4,5,6,6,5,3,3,4,4,4,4,3,4,5,5,4,4,3
+Female,41-50 years,Senior High School,Owner,<= 5 years,Cicalengka,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,1,1,1,1,5,5,1,5
+Female,51-60 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,41-50 years,Senior High School,Owner,6-10 years,Bandung,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,7,4,7,4,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,51-60 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,6,6,6,6,6,7,5,7,6,5,6,6,6,4,4,4,4,4,4,5,4,4,5,5,5,4,4
+Female,31-40 years,Bachelor,Owner,11-15 years,Bandung,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,7,7,7,7,7,7,6,7,7,7,7,7,7,5,3,4,4,4,5,5,5,5,5,5,5,4,4
+Female,51-60 years,Bachelor,Owner,11-15 years,Bandung,F&B,1-4 workers,11-15 years,Never partnered,Never partnered,5,2,1,5,4,6,5,6,6,6,5,4,6,2,3,4,4,4,4,4,4,4,4,4,4,4,3
+Male,31-40 years,Master,Owner,6-10 years,Cimahi,Fashion,5-19 workers,6-10 years,MSME-University,Never partnered,7,6,5,5,4,6,6,5,7,5,6,6,6,4,2,4,4,4,5,5,5,5,4,4,4,2,3
+Male,31-40 years,Bachelor,Owner,11-15 years,Bandung,Fashion,5-19 workers,11-15 years,MSME-Industry,Never partnered,7,2,1,7,7,4,4,5,7,7,7,5,6,4,4,5,5,5,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,6,5,6,7,7,6,6,6,6,6,6,6,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,5,5,4,3,3,4,5,5,4,4,5,4,4,4,3,4,3,4,5,5,4,4,4,5,4,4,4
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,5,4,3,4,4,5,6,4,5,5,5,6,6,4,4,4,4,5,4,3,4,4,4,4,3,4,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Cimahi,F&B,1-4 workers,<=5 years,MSME-University,MSME-Government-University,6,6,4,6,5,6,6,6,6,6,6,6,6,4,4,4,3,4,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,7,5,6,6,6,6,5,7,7,7,7,7,6,4,4,4,3,4,5,5,4,4,4,4,4,4,4
+Female,<= 30 years,Senior High School,Management team,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,4,5,3,5,4,6,6,7,4,4,5,4,5,3,3,5,3,4,5,5,5,5,4,4,4,3,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,6,4,5,6,5,5,6,6,6,5,5,6,4,3,4,3,3,3,5,5,5,5,5,4,4,3,4
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,MSME-Government-University,5,4,4,5,5,4,5,4,4,4,4,5,5,4,5,5,3,3,4,3,4,4,5,4,4,4,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,4,4,3,6,4,3,3,7,7,3,5,7,5,4,5,5,4,5,5,5,5,5,5,4,5,5,5
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,7,5,4,6,5,6,7,7,6,6,6,6,6,4,5,5,4,4,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,Trading,1-4 workers,<=5 years,MSME-Industry,Never partnered,6,7,7,6,7,7,5,7,6,6,6,6,7,4,5,5,4,5,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Cimahi,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,6,5,4,6,4,5,5,6,5,5,5,4,5,4,3,5,4,4,5,5,4,5,5,5,5,4,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,MSME-University,Never partnered,6,7,5,7,6,5,7,6,7,4,5,3,4,4,3,4,3,4,5,5,5,5,5,4,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,IT-Apps,1-4 workers,<=5 years,Never partnered,Never partnered,7,3,3,4,5,7,5,7,7,7,5,7,5,5,3,5,5,5,5,5,5,5,5,4,5,5,5
+Female,41-50 years,Master,Management team,<= 5 years,Bandung,Trading,5-19 workers,21-25 years,MSME-Industry,Never partnered,7,5,5,7,7,7,7,7,7,5,5,6,5,3,5,5,4,5,4,4,5,5,5,5,5,5,5
+Male,31-40 years,Bachelor,Owner,6-10 years,Bandung,Graphic design,1-4 workers,6-10 years,MSME-Industry,MSME-Government-Industry,5,3,2,4,2,4,5,6,5,3,4,6,5,3,4,4,4,4,4,4,3,4,4,4,4,4,4
+Male,<= 30 years,Bachelor,Management team,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,4,4,3,3,3,5,5,5,6,6,5,5,6,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,6,5,5,5,6,6,6,6,6,5,6,6,6,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Male,<= 30 years,Senior High School,Others,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,MSME-University,Never partnered,6,4,4,4,5,4,6,6,4,4,5,5,5,4,4,5,3,3,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Sukabumi,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,4,4,5,5,5,4,4,6,4,4,4,5,3,3,3,2,3,3,3,3,3,3,3,3,3,3
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,5,4,5,5,4,4,5,5,5,5,5,4,5,4,4,4,4,4,4,5,4,4,4,4,4,3,4
+Male,31-40 years,Bachelor,Owner,16-20 years,Bandung,F&B,20-99 workers,16-20 years,Never partnered,Never partnered,6,5,4,5,5,6,5,7,6,5,5,6,6,4,5,4,4,4,4,4,4,3,4,4,4,3,3
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,Craft,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,6,7,5,7,7,5,4,5,5,5,7,7,7,5,5,5,3,4,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,6,5,5,5,5,5,6,5,6,6,6,6,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,5,3,5,5,6,6,6,6,6,6,6,6,4,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Others,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,5,5,4,6,6,7,5,6,7,5,7,7,7,5,4,5,5,5,5,5,4,5,4,4,5,4,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,7,6,5,7,6,6,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,4,5,5
+Female,<= 30 years,Senior High School,Others,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,Never partnered,Never partnered,6,5,6,5,4,4,5,7,7,6,7,6,6,3,3,3,3,3,5,4,4,5,3,3,4,4,3
+Female,<= 30 years,Bachelor,Owner,6-10 years,Bandung,F&B,5-19 workers,6-10 years,MSME-Industry,MSME-Government-Industry,7,7,4,1,7,7,6,7,6,5,6,7,7,5,3,5,5,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,7,3,4,6,6,7,6,5,6,6,6,6,3,3,5,4,4,4,5,5,5,4,3,4,5,5
+Female,<= 30 years,Senior High School,Management team,<= 5 years,Bandung,Trading,20-99 workers,<=5 years,Never partnered,Never partnered,6,4,7,6,6,5,6,6,6,7,5,7,6,5,4,4,4,4,5,4,4,4,5,4,5,4,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,4,5,4,5,6,6,5,5,6,5,6,6,6,4,4,3,4,4,5,5,4,4,5,4,5,4,5
+Female,<= 30 years,Senior High School,Management team,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,5,5,3,4,3,4,5,5,4,4,5,5,3,2,3,5,2,3,3,3,5,4,5,4,4,4,4
+Male,31-40 years,Master,Management team,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,4,2,3,4,4,2,1,6,3,1,5,4,3,1,4,1,4,5,4,5,5,5,5,5,2,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,6-10 years,MSME-Industry,Never partnered,7,4,5,7,7,5,7,7,7,4,4,7,4,5,4,5,3,4,5,4,5,5,5,4,4,3,4
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,MSME-Industry,Never partnered,6,4,6,6,7,6,6,5,6,5,7,6,5,4,5,4,3,4,4,4,5,5,4,4,5,4,4
+Male,41-50 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,5,3,5,5,4,5,6,6,6,5,5,6,5,4,4,4,4,4,4,5,4,4,4,4,4,4,4
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,4,5,6,4,6,6,6,5,6,5,7,5,4,3,3,4,3,4,3,5,4,4,5,4,2,3
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,Automotive accessories,1-4 workers,<=5 years,Never partnered,Never partnered,5,5,4,7,5,6,5,5,7,7,6,6,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Depok,Photography,1-4 workers,<=5 years,MSME-Industry,Never partnered,4,3,4,6,5,5,4,4,6,4,5,5,4,3,4,3,4,4,5,5,4,4,5,5,5,5,4
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,4,2,2,4,2,3,5,6,6,6,5,4,4,3,3,4,3,3,4,4,4,4,3,3,4,4,4
+Male,<= 30 years,Senior High School,Others,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,4,7,7,7,7,7,7,7,5,7,6,4,4,4,4,4,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,6-10 years,Bandung,Automotive accessories,5-19 workers,6-10 years,Never partnered,MSME-Government-Industry,5,3,5,5,6,6,7,7,5,6,6,5,7,4,5,3,4,5,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Bachelor,Owner,6-10 years,Bandung,Fashion,1-4 workers,6-10 years,Never partnered,Never partnered,5,5,2,5,5,5,5,4,5,5,5,5,5,4,3,5,3,3,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Others,<= 5 years,Bandung,Online shop,5-19 workers,<=5 years,MSME-University,Never partnered,4,2,1,5,4,2,4,5,4,4,5,5,3,1,5,4,2,1,5,3,3,3,5,5,5,5,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,MSME-University,Never partnered,4,6,5,5,5,4,6,6,6,5,5,6,4,4,3,5,4,3,5,4,5,5,5,5,5,4,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,MSME-University,Never partnered,5,5,7,6,6,6,5,7,6,6,6,7,6,4,3,5,4,4,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Tasikmalaya,Trading,1-4 workers,<=5 years,MSME-Industry,Never partnered,6,7,5,6,6,5,5,7,6,5,6,6,6,4,4,5,4,4,5,5,4,3,4,4,4,4,4
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,MSME-Industry,Never partnered,4,3,4,5,4,5,6,5,5,5,6,4,5,3,3,4,3,3,4,4,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Others,<= 5 years,Bandung,Construction,1-4 workers,21-25 years,Never partnered,Never partnered,4,4,4,5,5,5,5,5,5,5,5,5,5,3,3,4,3,3,4,4,3,3,3,4,4,3,3
+Male,<= 30 years,Senior High School,Others,<= 5 years,Bandung,Trading,1-4 workers,21-25 years,Never partnered,Never partnered,5,3,4,4,6,4,2,3,4,4,3,5,4,3,3,4,3,4,4,4,2,2,1,3,2,4,2
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,4,4,5,6,5,5,5,5,5,6,4,5,6,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,7,3,6,5,4,6,4,5,4,6,7,7,4,3,5,5,4,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Cimahi,Furniture,5-19 workers,11-15 years,Never partnered,Never partnered,6,7,7,7,6,6,4,5,5,5,5,6,5,4,4,2,3,4,4,4,2,2,3,3,3,3,3
+Male,<= 30 years,Senior High School,Others,<= 5 years,Jakarta,Fashion,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,4,6,5,7,2,3,4,5,5,6,7,6,4,4,4,3,4,5,5,5,5,4,5,5,5,5,5
+Female,<= 30 years,Bachelor,Others,<= 5 years,Bandung,Craft,1-4 workers,<=5 years,MSME-University,Never partnered,5,4,4,5,3,3,5,4,6,4,4,4,4,4,4,5,4,4,4,4,5,5,4,5,5,5,5
+Male,<= 30 years,Senior High School,Others,<= 5 years,Cimahi,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,4,4,6,5,5,5,4,5,4,5,5,5,3,3,3,4,3,5,5,4,4,4,4,4,4,4
+Female,<= 30 years,Senior High School,Others,<= 5 years,Jakarta,FMCG,>=100 workers,>=30 years,Never partnered,Never partnered,7,5,4,6,6,7,7,7,7,7,7,7,7,5,5,5,3,5,5,5,5,5,5,5,5,3,5
+Male,<= 30 years,Senior High School,Others,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,6,6,5,6,3,5,6,6,6,5,6,7,6,4,4,5,4,4,5,5,5,5,5,5,4,4,4
+Female,<= 30 years,Bachelor,Others,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,5,4,5,5,4,4,5,5,6,6,6,5,5,4,5,5,5,5,5,5,5,5,4,3,4,4,4
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,6,6,6,6,4,7,5,5,6,7,6,4,4,3,3,4,4,4,2,3,5,4,4,3,4
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,5,4,3,5,4,4,5,5,4,4,5,6,4,3,4,5,3,3,5,5,4,4,4,5,5,4,5
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Cimahi,Online shop,1-4 workers,<=5 years,Never partnered,Never partnered,6,6,6,6,5,5,5,6,5,6,5,6,5,4,4,4,4,4,4,4,5,5,5,5,5,5,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,5,5,5,5,5,4,5,4,5,4,5,4,4,4,3,4,4,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,Photography,1-4 workers,<=5 years,MSME-Industry,Never partnered,7,7,7,7,5,7,7,7,7,7,7,7,7,5,3,5,5,5,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,7,5,6,7,5,6,6,7,7,6,7,7,6,5,4,4,4,4,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,Never partnered,Never partnered,5,6,3,6,4,5,6,6,6,5,6,5,5,4,4,5,5,4,5,5,5,5,5,5,5,4,5
+Female,<= 30 years,Bachelor,Others,<= 5 years,Bandung,F&B,5-19 workers,<=5 years,MSME-Industry,Never partnered,5,3,6,7,5,5,6,6,5,5,5,6,6,4,4,4,4,4,4,4,4,4,3,4,4,3,4
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,Craft,1-4 workers,<=5 years,MSME-University,Never partnered,3,5,6,4,2,1,4,2,4,4,3,5,5,3,3,4,2,2,5,5,4,4,5,5,4,5,5
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Sukabumi,F&B,5-19 workers,<=5 years,MSME-Government,MSME-Government-Industry,5,7,3,5,5,6,5,7,4,3,5,5,6,4,5,2,4,4,4,5,4,4,2,3,3,3,3
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,5,4,5,5,4,5,4,4,5,5,5,5,5,3,5,3,4,3,5,5,4,4,4,3,4,4,4
+Female,<= 30 years,Bachelor,Others,<= 5 years,Bandung,Fashion,5-19 workers,<=5 years,Never partnered,Never partnered,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,4,3,3,3,3,3,3,3,3
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,7,7,7,7,5,7,7,7,7,6,7,6,7,5,4,5,5,5,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Senior High School,Management team,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,MSME-University,Never partnered,6,6,5,6,5,5,6,6,6,6,6,6,6,4,4,4,4,4,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,5,3,4,4,4,5,5,5,4,5,6,7,5,4,3,5,3,3,5,5,5,5,4,4,4,4,4
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,MSME-Industry,Never partnered,6,7,4,6,6,7,5,6,4,6,5,5,7,4,4,5,5,4,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,bandung,Fashion,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,4,5,5,4,4,5,5,5,6,5,6,4,4,4,2,4,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Bachelor,Management team,<= 5 years,Bandung,Electronic manufacturing,5-19 workers,6-10 years,MSME-Industry,MSME-Industry-University,6,5,6,7,6,6,5,7,6,5,6,7,7,3,4,5,4,5,5,5,4,5,4,5,4,5,4
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,Automotive,1-4 workers,<=5 years,Never partnered,Never partnered,5,6,4,5,4,6,5,3,4,4,4,5,5,4,4,4,3,4,4,4,3,3,3,5,5,3,4
+Male,<= 30 years,Senior High School,Management team,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,5,5,5,5,3,4,5,6,6,5,7,5,4,4,3,2,4,3,5,5,5,5,5,5,4,4,4
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,5-19 workers,<=5 years,MSME-University,Never partnered,4,4,6,7,7,7,6,6,6,6,5,7,7,5,5,3,3,3,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,F&B,5-19 workers,<=5 years,MSME-University,Never partnered,7,7,7,7,7,7,7,7,5,6,5,7,7,3,3,2,3,5,5,5,4,4,5,5,5,3,3
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Karawang,F&B,5-19 workers,<=5 years,MSME-Industry,Never partnered,6,6,6,6,6,6,6,6,6,6,6,6,6,4,4,4,4,4,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bali,F&B,5-19 workers,<=5 years,MSME-University,Never partnered,6,4,3,6,5,6,5,6,6,6,5,7,6,4,4,5,4,5,5,4,5,5,5,4,5,4,5
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,IT-Apps,5-19 workers,<=5 years,MSME-University,Never partnered,6,3,5,6,7,5,3,3,6,7,6,6,6,4,3,5,3,3,5,5,5,3,5,5,5,4,5
+Female,<= 30 years,Bachelor,Others,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,7,7,7,5,5,5,6,5,6,6,6,6,7,3,3,4,3,4,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,6,4,4,5,7,7,6,6,6,5,6,5,6,4,4,4,4,3,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Bachelor,Others,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,3,3,4,3,3,2,2,2,2,2,2,2,2,3,3,3,3,3,2,2,2,2,2,2,2,2,2
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Cirebon,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,5,6,5,7,6,5,6,5,7,6,6,6,5,4,5,4,4,5,4,3,4,3,4,4,3,4,4
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,Trading,1-4 workers,<=5 years,Never partnered,Never partnered,6,6,6,6,7,7,7,7,7,7,7,6,6,5,5,5,4,5,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Senior High School,Others,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,5,5,6,6,5,5,6,6,6,4,5,6,5,2,4,4,3,4,5,5,5,5,5,5,5,4,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,5,7,7,5,7,7,7,7,7,7,7,4,3,5,5,5,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Senior High School,Management team,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-University,MSME-Government-University,6,6,5,5,3,6,6,6,6,6,7,6,7,5,4,4,3,4,4,4,5,4,5,5,4,4,5
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bandung,Design,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,6,6,5,5,6,6,6,6,6,6,6,4,4,4,4,4,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Bachelor,Owner,<= 5 years,Cimahi,Trading,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,5,4,5,6,7,7,6,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,MSME-University,Never partnered,6,6,6,4,3,6,6,6,5,5,5,5,5,4,3,4,4,4,5,5,4,5,5,4,4,4,4
+Male,31-40 years,Senior High School,Owner,6-10 years,Bandung,Trading,1-4 workers,6-10 years,MSME-Government,MSME-Government-Industry,7,7,7,7,7,7,7,7,7,7,7,7,7,3,3,5,5,5,4,4,5,5,5,5,5,5,5
+Male,41-50 years,Bachelor,Owner,11-15 years,Malang,F&B,1-4 workers,11-15 years,MSME-Government,Never partnered,7,7,5,7,6,7,7,7,7,7,7,7,7,5,3,5,5,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,6,5,6,6,6,6,5,5,4,5,5,6,6,4,4,5,4,5,4,5,5,5,5,5,5,5,5
+Male,41-50 years,Bachelor,Owner,<= 5 years,Yogyakarta,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,4,4,7,4,7,7,7,7,4,7,7,7,5,3,3,5,5,3,3,3,3,5,5,5,3,3
+Female,31-40 years,Senior High School,Owner,6-10 years,Tangerang,F&B,1-4 workers,6-10 years,MSME-Industry,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,3,3,2,2,2,4,4,4,3
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Tangerang,Craft,1-4 workers,<=5 years,Never partnered,Never partnered,6,4,6,5,6,5,6,7,5,6,6,4,5,4,5,5,4,4,3,3,3,4,4,4,4,3,4
+Male,31-40 years,Senior High School,Management team,<= 5 years,Majalengka,Advertise,5-19 workers,<=5 years,MSME-Industry,Never partnered,6,4,5,6,6,5,7,7,6,4,4,5,4,4,3,5,2,4,5,5,5,5,3,4,5,5,4
+Female,31-40 years,Senior High School,Owner,6-10 years,Bandung,Fashion,1-4 workers,6-10 years,Never partnered,Never partnered,7,7,6,6,6,6,6,6,6,6,6,7,7,5,5,5,5,5,5,5,5,5,5,5,5,4,4
+Female,41-50 years,Senior High School,Owner,<= 5 years,Sleman,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,7,1,7,7,7,7,7,7,7,7,7,5,5,5,5,5,3,4,5,3,5,5,5,5,5
+Male,31-40 years,Master,Owner,6-10 years,Bekasi,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,5,4,6,5,7,5,4,5,6,5,6,6,3,4,4,4,4,4,5,4,4,4,5,5,5,4
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Cimahi,Craft,5-19 workers,<=5 years,Never partnered,Never partnered,7,7,7,7,6,6,7,7,7,7,7,7,7,4,4,4,5,5,3,3,3,3,3,4,3,4,4
+Male,41-50 years,Bachelor,Owner,11-15 years,Cilacap,F&B,5-19 workers,6-10 years,Never partnered,Never partnered,7,6,7,7,7,7,7,7,5,7,5,7,7,5,5,5,5,5,5,5,5,5,4,5,5,3,4
+Female,51-60 years,Senior High School,Owner,6-10 years,Yogyakarta,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,7,5,4,6,5,7,7,7,7,6,6,6,7,4,4,5,5,5,3,3,4,4,5,4,5,4,5
+Female,31-40 years,Senior High School,Owner,6-10 years,Malang,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,7,6,7,7,7,7,7,7,7,7,7,7,7,5,5,5,4,5,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Senior High School,Owner,<= 5 years,Malang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,7,6,6,6,7,7,6,6,6,7,6,4,4,5,4,5,5,4,5,5,5,5,5,5,5
+Female,41-50 years,Bachelor,Owner,11-15 years,Yogyakarta,F&B,5-19 workers,6-10 years,MSME-Government,MSME-Government-University,6,6,6,5,5,4,5,6,5,6,5,7,6,4,4,4,4,4,5,5,5,4,4,3,4,4,4
+Female,41-50 years,Bachelor,Owner,6-10 years,Yogyakarta,F&B,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,7,1,1,7,7,7,7,7,5,5,6,5,3,3,3,3,4,4,2,5,4,4,5,4,4,4
+Female,51-60 years,Bachelor,Owner,<= 5 years,Cimahi,F&B,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,7,4,6,7,7,7,7,7,7,4,7,7,5,3,3,3,5,5,3,3,3,3,3,3,3,3
+Female,51-60 years,Senior High School,Owner,<= 5 years,Malang,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,7,7,7,7,5,7,7,7,7,7,7,7,7,5,5,5,5,5,4,5,4,4,4,5,5,5,5
+Male,51-60 years,Bachelor,Owner,6-10 years,Cianjur,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,6,1,5,5,6,7,4,5,7,6,7,5,5,2,3,5,4,3,2,3,5,5,4,5,4,2,4
+Female,31-40 years,Master,Owner,6-10 years,Kudus,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,4,4,7,1,7,7,7,7,7,5,6,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5
+Female,51-60 years,Senior High School,Owner,<= 5 years,Malang,F&B,5-19 workers,<=5 years,MSME-Government,MSME-Government-Industry,6,6,4,6,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,3,4,4,4,5,5,3,3
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Medan,Photography,1-4 workers,<=5 years,Never partnered,Never partnered,5,3,4,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Female,31-40 years,Senior High School,Owner,<= 5 years,Malang,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,3,5,5,5,5,5,5,5
+Female,41-50 years,Senior High School,Owner,6-10 years,Pekanbaru,F&B,1-4 workers,6-10 years,MSME-University,Never partnered,5,5,3,5,5,5,7,7,7,7,6,7,6,4,4,4,4,4,4,4,5,5,5,5,4,4,4
+Female,41-50 years,Senior High School,Owner,<= 5 years,Wonosobo,F&B,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,5,5,5,6,5,6,6,6,6,5,5,6,6,3,2,2,3,3,5,3,3,3,2,3,3,1,3
+Female,41-50 years,Bachelor,Owner,6-10 years,Malang,F&B,5-19 workers,6-10 years,MSME-Government,MSME-Government-University,7,7,1,7,6,7,7,6,7,6,7,7,7,5,4,5,5,5,5,5,5,5,5,5,5,5,5
+Female,51-60 years,Bachelor,Owner,6-10 years,Bandung,Craft,1-4 workers,6-10 years,Never partnered,Never partnered,7,7,4,6,5,5,4,4,5,4,5,6,5,3,4,4,3,3,3,2,2,2,3,3,3,2,2
+Female,51-60 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,7,5,5,7,6,7,6,7,6,7,6,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Bachelor,Others,<= 5 years,Tasikmalaya,Trading,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,6,6,6,6,6,6,6,6,6,6,6,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Female,31-40 years,Bachelor,Owner,<= 5 years,Jakarta,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,6,5,6,7,7,7,7,7,7,7,7,7,3,4,5,4,4,5,5,5,5,5,5,5,5,5
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Jakarta,F&B,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,5,5,3,5,5,4,6,6,5,5,5,6,6,5,3,3,4,4,4,3,5,5,5,4,3,4,3
+Male,51-60 years,Bachelor,Owner,6-10 years,Nganjuk,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,5,7,5,5,4,5,5,5,5,5,4,5,4,3,3,3,3,3,4,3,3,3,4,4,4,3,3
+Female,41-50 years,Senior High School,Owner,<= 5 years,Yogyakarta,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,5,4,6,7,6,7,7,6,6,7,7,5,5,3,4,5,5,5,5,5,4,5,4,4,3
+Male,41-50 years,Senior High School,Owner,<= 5 years,Yogyakarta,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,7,4,4,7,6,4,4,6,5,5,5,7,5,4,4,3,3,3,5,1,2,2,4,3,5,2,1
+Female,51-60 years,Senior High School,Owner,<= 5 years,Semarang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,4,1,5,4,7,7,7,7,7,7,7,6,5,5,3,5,5,3,1,4,4,4,5,5,1,5
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Kuningan,Fashion,1-4 workers,<=5 years,Never partnered,Never partnered,6,6,3,6,5,6,5,5,6,6,6,5,5,2,2,3,1,5,5,4,4,4,5,4,4,3,4
+Male,31-40 years,Bachelor,Management team,<= 5 years,Jambi,Trading,1-4 workers,<=5 years,Never partnered,Never partnered,7,3,6,6,6,6,6,6,7,6,5,6,6,4,3,4,3,3,4,4,3,3,3,3,3,4,4
+Female,31-40 years,Elementay School,Owner,<= 5 years,Medan,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,4,4,3,4,4,4,4,6,5,4,4,3,5,3,4,4,4,5,4,3,4,4,4,3,3,3,4
+Female,51-60 years,Senior High School,Others,<= 5 years,Malang,Fashion,1-4 workers,<=5 years,MSME-Government,Never partnered,5,6,4,6,6,7,7,7,5,7,7,7,7,5,5,5,5,5,5,2,5,5,5,5,5,5,5
+Female,41-50 years,Senior High School,Others,<= 5 years,Yogyakarta,Fashion,1-4 workers,<=5 years,MSME-Government,Never partnered,5,6,4,6,6,7,7,7,5,6,7,7,7,5,5,5,5,5,5,3,5,5,5,5,5,5,5
+Male,31-40 years,Senior High School,Others,<= 5 years,Blitar,Agriculture,1-4 workers,<=5 years,Never partnered,Never partnered,1,7,7,7,7,7,1,1,1,1,1,1,7,5,5,5,5,5,3,3,3,3,4,3,3,4,4
+Female,41-50 years,Senior High School,Owner,6-10 years,Jakarta,F&B,1-4 workers,6-10 years,MSME-Government,MSME-Government-Industry,4,5,5,7,4,5,6,6,4,5,4,7,4,5,4,4,4,4,4,3,3,4,4,4,4,3,2
+Female,41-50 years,Senior High School,Owner,<= 5 years,Malang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,5,5,6,5,7,6,6,7,5,6,7,7,2,3,4,3,4,4,4,5,4,5,4,4,4,3
+Female,41-50 years,Bachelor,Owner,11-15 years,Karawang,Fashion,1-4 workers,11-15 years,MSME-Industry,Never partnered,3,4,4,4,4,3,4,5,5,5,3,4,3,3,4,3,3,4,3,3,3,4,3,2,3,3,3
+Female,41-50 years,Bachelor,Owner,>= 21 years,Malang,Advertise,1-4 workers,21-25 years,Never partnered,Never partnered,5,6,2,4,5,5,4,5,4,5,3,6,6,4,4,4,4,4,5,5,5,4,4,3,3,3,4
+Female,31-40 years,Senior High School,Owner,6-10 years,Malang,Trading,1-4 workers,6-10 years,Never partnered,Never partnered,7,5,5,5,2,7,5,4,5,7,6,7,7,4,3,2,2,5,5,5,3,3,1,5,4,3,3
+Male,41-50 years,Senior High School,Owner,>= 21 years,Madiun,F&B,1-4 workers,21-25 years,MSME-Government,MSME-Government-University,7,1,7,7,7,7,7,7,7,7,7,6,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,51-60 years,Senior High School,Owner,<= 5 years,Bogor,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,5,3,6,4,5,6,7,4,5,5,6,5,5,3,3,3,5,4,3,4,3,4,3,3,2,2
+Male,41-50 years,Senior High School,Owner,<= 5 years,Serang,F&B,1-4 workers,<=5 years,MSME-University,Never partnered,7,7,5,6,7,6,6,5,5,5,5,7,6,4,3,2,2,5,3,3,4,5,4,5,4,4,5
+Female,41-50 years,Bachelor,Owner,6-10 years,Tangerang,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,6,6,6,7,7,7,7,7,7,7,7,7,6,5,5,5,5,5,4,4,4,4,5,5,4,4,4
+Male,31-40 years,Senior High School,Owner,6-10 years,Samarinda,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,6,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Senior High School,Owner,<= 5 years,Bandung,Online shop,5-19 workers,<=5 years,Never partnered,Never partnered,7,7,3,7,6,7,7,7,7,7,7,7,7,5,5,5,5,5,5,3,5,5,5,5,5,5,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Semarang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,5,5,6,7,7,7,7,7,6,6,6,6,3,3,3,3,3,4,5,5,5,5,5,5,4,3
+Female,41-50 years,Senior High School,Owner,6-10 years,Lampung,F&B,1-4 workers,6-10 years,MSME-University,MSME-Industry-University,6,6,3,4,6,6,6,6,6,6,6,6,6,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Female,41-50 years,Bachelor,Owner,<= 5 years,Banyumas,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,4,3,4,4,4,4,5,5,3,6,6,5,3,3,3,3,3,5,5,3,4,2,3,3,5,3
+Male,31-40 years,Bachelor,Owner,<= 5 years,Bulukumba,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,4,4,3,3,4,4,4,4,4,4,4,4,4,2,3,2,3,3,4,2,4,4,4,4,4,4,4
+Female,31-40 years,Bachelor,Owner,<= 5 years,Jakarta,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,1,3,1,7,7,7,6,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,41-50 years,Senior High School,Owner,11-15 years,Garut,Fashion,1-4 workers,11-15 years,MSME-Industry,Never partnered,7,7,5,5,5,5,6,7,7,5,6,7,7,5,3,5,5,5,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Bachelor,Owner,<= 5 years,Binjai,Fashion,1-4 workers,<=5 years,MSME-Government,Never partnered,7,7,3,7,7,7,7,7,7,7,7,7,7,5,5,5,3,5,5,1,5,5,5,5,5,5,5
+Male,51-60 years,Bachelor,Others,6-10 years,Jakarta,Trading,1-4 workers,6-10 years,MSME-Government,Never partnered,4,5,6,7,6,6,6,7,4,5,4,4,7,4,3,5,4,5,5,5,5,5,5,5,5,5,3
+Male,51-60 years,Bachelor,Owner,6-10 years,Malang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,5,6,6,7,6,7,6,7,7,7,7,5,5,5,5,5,5,5,3,3,3,5,5,4,3
+Female,31-40 years,Senior High School,Owner,<= 5 years,Malang,F&B,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,7,7,7,7,7,7,7,7,7,7,7,7,5,4,5,5,5,5,5,5,5,5,4,4,5,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Bali,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,5,4,3,5,6,6,6,6,6,6,7,6,4,5,5,4,4,4,5,4,5,4,5,4,5,4,3
+Male,41-50 years,Senior High School,Others,<= 5 years,Lampung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,4,4,4,5,4,6,4,7,5,4,5,7,6,3,2,3,3,3,3,3,3,3,3,3,3,3,2
+Female,31-40 years,Bachelor,Management team,<= 5 years,Banjarmasin,Craft,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,7,7,4,7,7,5,6,5,5,6,6,7,4,5,4,5,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Prabumulih,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,4,3,7,7,7,7,7,7,6,7,7,7,5,4,4,4,4,5,5,3,5,5,5,5,5,5
+Male,31-40 years,Master,Owner,<= 5 years,Palembang,Trading,5-19 workers,<=5 years,MSME-Industry,Never partnered,7,6,4,6,6,5,7,6,5,5,5,7,6,4,3,5,4,4,4,4,5,5,5,5,5,5,5
+Female,41-50 years,Bachelor,Owner,<= 5 years,Pekanbaru,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,6,5,2,4,4,6,4,5,4,4,5,5,6,4,4,4,4,4,3,4,4,4,4,4,4,4,4
+Female,31-40 years,Senior High School,Owner,6-10 years,Malang,F&B,1-4 workers,6-10 years,MSME-Government,MSME-Government-University,7,6,7,4,7,6,6,7,6,6,7,7,6,5,4,4,4,4,5,5,5,4,5,5,5,5,5
+Female,>=61 years,Senior High School,Owner,6-10 years,Malang,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,5,5,4,4,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,1,5,4,3,3,4
+Male,51-60 years,Senior High School,Owner,<= 5 years,Minahasa,Trading,1-4 workers,<=5 years,MSME-Government,MSME-Government-University,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Senior High School,Others,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,7,5,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,4,3,5,5,5,5,5,5,5
+Female,41-50 years,Bachelor,Management team,<= 5 years,Tangerang,Electrical mechanic,1-4 workers,<=5 years,Never partnered,Never partnered,6,1,6,5,5,6,5,5,5,4,4,5,5,4,4,3,4,4,4,4,3,3,4,4,4,4,3
+Male,31-40 years,Bachelor,Management team,<= 5 years,Jakarta,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,3,3,1,2,1,1,2,7,2,1,1,1,3,1,1,1,1,1,2,1,1,3,1,1,1,1,1
+Female,41-50 years,Senior High School,Owner,6-10 years,Jakarta,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,6,6,1,1,6,7,7,7,7,6,6,7,6,4,4,5,4,4,1,1,1,3,3,5,5,3,5
+Male,41-50 years,Senior High School,Owner,6-10 years,Bandung,Fashion,5-19 workers,6-10 years,MSME-Government,Never partnered,7,7,3,7,7,7,7,7,7,4,4,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,51-60 years,Senior High School,Owner,6-10 years,Malang,F&B,5-19 workers,6-10 years,Never partnered,Never partnered,4,4,4,5,3,4,5,5,3,4,5,5,5,4,3,4,3,4,4,3,3,3,4,4,4,3,3
+Female,41-50 years,Bachelor,Owner,<= 5 years,Yogyakarta,Fashion,1-4 workers,<=5 years,MSME-Government,Never partnered,6,5,4,4,5,4,6,4,4,4,4,6,4,3,4,5,3,3,5,3,5,5,5,3,4,4,3
+Male,41-50 years,Senior High School,Management team,11-15 years,Subang,F&B,1-4 workers,11-15 years,MSME-Government,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,31-40 years,Bachelor,Owner,<= 5 years,Yogyakarta,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,6,5,6,6,6,6,6,6,6,6,6,6,5,5,5,5,5,2,5,5,5,5,5,5,5,5
+Male,31-40 years,Junior High School,Owner,<= 5 years,Garut,Craft,1-4 workers,<=5 years,MSME-Industry,Never partnered,7,1,7,3,3,6,3,3,6,4,5,7,6,3,3,5,1,3,5,1,3,3,1,3,4,2,3
+Male,31-40 years,Master,Owner,<= 5 years,Lombok Timur,F&B,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,3,2,3,2,3,7,2,3,6,3,3,2,1,1,3,2,2,2,2,4,2,2,1,1,3,2,3
+Female,<= 30 years,Senior High School,Others,<= 5 years,Subang,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,3,5,7,7,7,7,3,7,4,3,7,7,7,3,3,3,3,3,2,2,2,1,3,5,3,3,2
+Male,41-50 years,Senior High School,Owner,6-10 years,Lampung,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,4,1,7,1,4,1,4,7,7,4,7,7,3,1,1,1,1,1,1,1,1,1,1,1,1,1
+Male,31-40 years,Bachelor,Management team,<= 5 years,Semarang,Trading,5-19 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,6,7,7,6,6,4,4,5,5,5,7,6,4,4,4,3,5,5,5,5,5,5,5,5,5,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Yogyakarta,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,4,2,2,2,2,4,4,1,4,3,4,4,4,3,2,4,2,3,5,5,5,3,3,3,3,3,2
+Female,41-50 years,Bachelor,Owner,6-10 years,Makassar,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,7,5,7,7,7,7,7,7,7,7,7,7,3,3,5,5,4,5,5,4,4,5,5,5,5,5
+Female,31-40 years,Bachelor,Management team,<= 5 years,Bengkalis,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,3,3,1,1,1,3,2,2,3,1,1,5,3,1,1,3,2,3,3,3,2,2,2,2,3,3,2
+Male,51-60 years,Bachelor,Owner,6-10 years,Tangerang Selatan,Fashion,5-19 workers,6-10 years,MSME-Government,MSME-Government-Industry,7,7,7,7,7,7,7,7,7,6,6,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Makassar,F&B,5-19 workers,<=5 years,Never partnered,Never partnered,6,5,3,7,7,6,3,5,4,5,6,7,7,4,2,5,3,5,5,5,3,4,2,5,5,5,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Depok,F&B,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,6,4,2,4,3,6,6,6,5,6,6,6,6,4,4,4,3,4,4,4,4,4,4,4,4,4,4
+Female,41-50 years,Senior High School,Owner,<= 5 years,Malang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,6,5,6,6,7,7,6,6,7,7,7,6,4,4,5,5,5,5,4,4,4,4,4,5,4,4
+Male,<= 30 years,Senior High School,Others,<= 5 years,Bekasi,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,5,5,6,6,6,7,7,7,7,7,7,7,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Male,41-50 years,Senior High School,Owner,11-15 years,Wonosobo,Trading,1-4 workers,11-15 years,Never partnered,Never partnered,7,5,5,5,5,7,6,6,5,5,5,5,7,4,4,4,3,5,5,4,4,4,4,5,5,5,5
+Female,<= 30 years,Senior High School,Others,<= 5 years,Makassar,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,5,5,4,7,6,6,4,5,6,6,6,4,3,4,4,3,4,4,5,4,4,4,4,4,4
+Female,51-60 years,Senior High School,Owner,<= 5 years,Jambi,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Jambi,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,5,6,6,7,6,7,7,6,6,7,7,5,5,4,4,5,5,5,4,4,4,5,5,4,3
+Male,41-50 years,Bachelor,Owner,11-15 years,Aceh,Trasing,1-4 workers,11-15 years,Never partnered,Never partnered,7,3,2,3,3,4,3,3,4,4,3,3,2,3,1,2,2,2,2,2,2,2,2,5,5,2,2
+Female,41-50 years,Senior High School,Owner,<= 5 years,Sleman,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,2,1,7,1,4,7,7,7,7,7,7,7,3,5,5,5,5,5,4,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Management team,<= 5 years,Medan,Trading,1-4 workers,<=5 years,MSME-Industry,MSME-Industry-University,6,2,5,3,6,5,6,6,6,6,6,6,6,4,5,4,4,4,5,5,4,4,4,5,5,5,4
+Female,41-50 years,Master,Owner,<= 5 years,Sumbawa,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,6,6,7,7,6,7,5,7,6,7,7,5,4,5,5,5,5,5,4,5,4,5,5,4,4
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Sukabumi,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,7,7,6,7,7,7,7,7,7,7,7,4,3,5,3,3,2,2,3,4,4,4,3,3,3
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Tangerang Selatan,F&B,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,5,6,6,6,5,5,6,6,7,6,7,7,7,4,4,3,4,5,4,4,5,5,4,2,4,4,4
+Female,31-40 years,Bachelor,Owner,<= 5 years,Bandung,Trading,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,6,6,6,6,5,6,7,7,7,6,6,6,6,5,4,3,4,5,5,4,4,4,4,4,4,3,3
+Male,51-60 years,Bachelor,Owner,<= 5 years,Blitar,Farm,1-4 workers,<=5 years,MSME-Industry,MSME-Government-Industry,6,5,4,6,7,7,4,7,6,6,6,6,6,4,3,4,5,4,5,4,4,4,4,4,5,3,3
+Female,51-60 years,Senior High School,Owner,6-10 years,Pemalang,F&B,5-19 workers,6-10 years,Never partnered,Never partnered,7,7,6,7,6,6,7,6,6,6,7,7,6,5,5,5,5,5,5,5,4,4,4,5,5,4,4
+Male,41-50 years,Senior High School,Owner,<= 5 years,Malang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,4,4,4,4,7,7,7,7,7,7,7,7,5,3,5,5,5,5,1,3,3,3,5,5,3,3
+Male,41-50 years,Bachelor,Owner,<= 5 years,Kebumen,Craft,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,6,6,7,7,7,7,6,7,7,7,7,7,5,5,5,5,5,5,5,4,4,4,5,5,5,4
+Female,31-40 years,Senior High School,Owner,6-10 years,Papua,F&B,1-4 workers,6-10 years,MSME-Industry,Never partnered,7,7,1,7,7,7,5,7,4,5,4,4,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,31-40 years,Senior High School,Owner,11-15 years,Malang,Trading,1-4 workers,16-20 years,Never partnered,Never partnered,6,6,6,6,6,7,6,6,6,5,6,5,6,2,2,3,3,3,4,1,2,3,3,3,3,3,2
+Female,51-60 years,Senior High School,Owner,<= 5 years,Makassar,Craft,1-4 workers,<=5 years,Never partnered,Never partnered,4,4,1,2,2,3,4,3,3,4,3,3,4,3,2,1,1,5,5,1,1,3,5,5,5,5,5
+Female,51-60 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,5,4,5,5,5,7,7,7,7,7,7,7,5,4,4,4,5,4,5,3,3,3,3,3,3,3
+Male,31-40 years,Bachelor,Owner,6-10 years,Banten,F&B,1-4 workers,6-10 years,MSME-Government,MSME-Industry-University,7,3,4,4,5,4,5,6,6,5,6,7,6,5,4,4,4,3,4,5,5,4,4,5,4,5,4
+Female,31-40 years,Elementay School,Owner,6-10 years,Bandung,Trading,1-4 workers,6-10 years,Never partnered,Never partnered,7,1,5,7,6,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,4
+Male,41-50 years,Senior High School,Owner,6-10 years,Bengkulu,F&B,1-4 workers,6-10 years,MSME-Government,MSME-Government-Industry,5,1,2,6,3,6,6,6,6,4,3,6,6,4,4,4,3,4,3,1,3,1,5,4,4,3,3
+Male,<= 30 years,Senior High School,Others,<= 5 years,Sumbawa,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,7,5,5,5,5,6,6,5,6,6,6,6,4,4,5,5,5,4,3,3,4,4,4,4,4,5
+Male,<= 30 years,Senior High School,Owner,6-10 years,Bengkulu,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,5,7,5,7,7,7,7,7,7,7,7,5,5,5,5,5,3,2,3,3,3,4,3,3,4
+Female,<= 30 years,Senior High School,Management team,<= 5 years,Makassar,F&B,5-19 workers,6-10 years,MSME-Government,MSME-Government-Industry,7,7,5,7,7,7,6,6,6,6,7,7,7,5,4,5,5,5,5,3,5,3,5,5,5,5,3
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,Trading,1-4 workers,<=5 years,Never partnered,Never partnered,6,5,5,7,1,6,6,7,7,7,6,7,6,4,4,4,4,4,5,1,4,4,4,4,5,4,4
+Female,31-40 years,Bachelor,Management team,6-10 years,Malang,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,6,6,6,6,5,6,6,6,6,6,6,6,6,4,4,4,4,4,4,4,4,4,4,4,4,4,3
+Female,51-60 years,Senior High School,Owner,<= 5 years,Pekanbaru,F&B,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,7,4,4,1,7,7,7,7,7,7,7,7,5,5,5,5,5,4,1,5,5,5,5,5,5,5
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Jambi,Fashion,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Bachelor,Owner,6-10 years,Bandung,F&B,5-19 workers,6-10 years,MSME-Government,MSME-Government-University,7,5,7,7,4,5,7,7,6,7,7,7,7,5,5,4,4,5,5,5,5,5,5,5,5,5,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Jambi,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Male,51-60 years,Bachelor,Owner,<= 5 years,Jakarta,Craft,1-4 workers,<=5 years,MSME-Government,Never partnered,7,7,5,6,6,5,7,6,5,5,7,7,7,5,4,3,3,5,4,4,4,3,2,5,5,4,4
+Female,31-40 years,Master,Owner,<= 5 years,Purwokerto,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,5,4,4,4,6,4,5,5,4,5,6,5,4,3,5,4,5,5,5,5,5,4,4,5,4,4
+Male,41-50 years,Bachelor,Owner,6-10 years,Surabaya,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,6,7,7,6,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,41-50 years,Bachelor,Owner,<= 5 years,Medan,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,6,4,4,4,4,4,6,6,5,4,4,4,4,3,3,4,3,3,4,3,3,3,3,4,4,4,3
+Male,31-40 years,Master,Owner,<= 5 years,Bandung,Design,1-4 workers,<=5 years,Never partnered,Never partnered,6,7,6,5,5,5,6,6,5,5,5,5,5,4,4,4,4,4,4,3,4,4,4,4,4,4,4
+Female,41-50 years,Senior High School,Owner,6-10 years,Mataram,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,6,6,4,2,6,7,6,6,6,6,7,7,6,5,5,5,5,5,4,2,3,3,4,4,4,4,4
+Female,41-50 years,Bachelor,Owner,<= 5 years,Binjai,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,6,6,5,5,5,6,7,7,6,6,6,6,7,4,4,5,5,4,5,4,4,4,5,5,5,4,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Pekanbaru,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,3,3,3,5,2,3,3,6,5,4,6,6,6,4,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,41-50 years,Junior High School,Owner,6-10 years,Bogor,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Others,<= 5 years,Kuningan,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,7,6,7,6,4,7,7,7,7,6,6,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,31-40 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,1,1,1,1,1,1,2,2,5,2,4,2,1,3,3,2,2,3,2,4,3,3,3,2,4,3,2
+Female,31-40 years,Bachelor,Owner,6-10 years,Batam,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1
+Male,31-40 years,Bachelor,Others,<= 5 years,Serdang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,7,7,5,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Makassar,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,6,5,6,6,6,6,6,6,6,6,6,6,4,4,4,4,4,5,5,5,5,5,4,4,4,4
+Female,51-60 years,Senior High School,Owner,<= 5 years,Sukabumi,Craft,1-4 workers,<=5 years,MSME-Government,Never partnered,6,6,6,6,5,7,6,6,6,5,5,6,6,5,3,5,5,5,1,1,4,4,4,4,4,3,4
+Female,41-50 years,Master,Owner,<= 5 years,Gowa,Agriculture,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,4,3,2,6,5,5,5,5,4,4,4,4,4,3,2,4,3,3,3,3,3,3,3,3,3,2,2
+Female,31-40 years,Bachelor,Owner,<= 5 years,Pemalang,Craft,1-4 workers,<=5 years,MSME-University,MSME-Industry-University,7,6,7,7,7,7,7,7,7,7,6,7,7,5,5,5,5,5,5,4,5,5,4,5,5,5,5
+Female,41-50 years,Master,Others,6-10 years,Kudus,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,6,6,5,6,6,6,7,6,6,7,6,6,4,2,4,4,4,4,2,4,4,4,4,4,4,4
+Male,<= 30 years,Senior High School,Others,<= 5 years,Kuningan,Trading,1-4 workers,<=5 years,Never partnered,Never partnered,6,6,4,5,2,5,4,5,3,4,4,6,5,3,3,5,4,3,5,5,5,5,5,4,5,5,5
+Female,>=61 years,Senior High School,Owner,<= 5 years,Bandung,Fashion,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,5,7,1,7,7,7,7,7,7,7,7,5,5,5,5,5,3,1,4,5,5,5,5,3,4
+Female,31-40 years,Senior High School,Owner,<= 5 years,Kediri,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,7,4,4,7,7,5,6,5,6,5,5,7,5,5,4,5,4,4,5,3,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Tangerang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,7,7,7,7,7,1,7,7,7,7,7,5,5,5,5,5,5,1,1,5,5,5,5,5,5
+Male,41-50 years,Junior High School,Owner,>= 21 years,Bogor,Craft,1-4 workers,21-25 years,MSME-Government,MSME-Government-Industry,7,7,7,7,7,7,7,7,7,7,7,7,7,5,3,3,3,5,3,3,3,3,4,2,4,3,2
+Female,41-50 years,Master,Owner,11-15 years,Banjarmasin,F&B,5-19 workers,11-15 years,MSME-University,Never partnered,7,7,1,7,7,7,7,7,7,7,7,7,7,4,4,5,5,5,5,5,5,5,5,5,5,4,4
+Female,41-50 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,7,6,6,7,7,7,7,7,7,6,6,7,6,5,5,4,4,5,5,4,5,5,5,5,5,5,5
+Male,41-50 years,Bachelor,Owner,6-10 years,Aceh,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,4,4,4,5,6,7,7,5,4,5,5,7,4,4,3,3,4,4,4,3,3,3,3,4,3,3
+Male,41-50 years,Bachelor,Owner,<= 5 years,Karawang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,4,3,3,3,3,3,3,3,3,3
+Male,51-60 years,Senior High School,Owner,6-10 years,Bandung,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,3,4,5,5,5,3,3,2,3,4,4,4
+Female,41-50 years,Senior High School,Owner,<= 5 years,Tangerang,F&B,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,7,5,5,1,7,7,6,6,6,5,6,7,4,4,5,4,5,5,5,5,5,5,4,4,4,4
+Male,31-40 years,Bachelor,Owner,<= 5 years,Lampung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,4,4,5,6,6,6,7,6,7,7,6,6,6,5,4,4,4,4,5,5,5,5,5,5,5,5,5
+Male,31-40 years,Bachelor,Others,<= 5 years,Sintang,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,5,5,3,4,5,6,5,6,5,5,5,5,6,3,3,3,3,3,2,1,1,2,2,2,2,2,1
+Female,<= 30 years,Bachelor,Others,<= 5 years,Garut,Laundry,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,1,1,7,7,7,7,7,6,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,31-40 years,Bachelor,Owner,<= 5 years,Jakarta,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,4,7,4,4,4,4,4,4,4,7,4,3,3,3,3,3,5,5,3,3,3,3,3,3,3
+Male,<= 30 years,Senior High School,Owner,<= 5 years,Jakarta,Advertise,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,6,6,7,7,7,7,7,7,7,7,7,5,5,5,4,5,5,5,5,5,5,5,5,5,5
+Female,41-50 years,Bachelor,Owner,<= 5 years,Tangerang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,5,5,3,3,5,5,4,5,5,5,5,5,4,4,3,3,4,4,4,5,5,5,4,5,4,4
+Female,<= 30 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,7,4,4,5,4,4,5,5,5,5,5,5,5,5,5
+Male,31-40 years,Bachelor,Others,6-10 years,Bogor,Trading,1-4 workers,<=5 years,Never partnered,Never partnered,1,2,2,3,1,3,3,3,2,3,2,2,2,3,3,2,2,3,2,1,2,2,3,2,2,2,2
+Male,31-40 years,Bachelor,Owner,6-10 years,Jember,Trading,1-4 workers,6-10 years,Never partnered,Never partnered,7,5,7,7,7,7,7,7,7,6,6,7,7,5,5,5,5,5,5,5,5,5,5,4,5,5,5
+Female,<= 30 years,Senior High School,Others,<= 5 years,Rengat,Trading,1-4 workers,<=5 years,Never partnered,Never partnered,5,4,3,3,4,3,4,3,2,3,4,5,5,3,3,5,5,3,4,4,4,4,4,3,5,4,3
+Male,<= 30 years,Bachelor,Owner,<= 5 years,Bogor,Fashion,5-19 workers,<=5 years,MSME-University,Never partnered,6,5,5,5,5,6,6,6,6,5,5,6,6,3,3,4,4,4,4,4,4,4,4,4,4,4,4
+Male,41-50 years,Bachelor,Owner,6-10 years,Demak,F&B,1-4 workers,6-10 years,MSME-Government,MSME-Government-Industry,7,6,6,7,6,7,6,6,6,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,51-60 years,Senior High School,Owner,6-10 years,Tangerang,Trading,1-4 workers,6-10 years,MSME-Industry,Never partnered,6,1,2,6,5,2,6,7,6,5,6,7,5,4,4,4,4,4,4,4,4,3,4,4,4,4,4
+Female,41-50 years,Bachelor,Owner,11-15 years,Bekasi,F&B,1-4 workers,11-15 years,MSME-Government,Never partnered,7,7,6,7,5,7,6,6,7,6,5,7,7,5,5,5,4,5,5,5,5,5,3,5,5,5,5
+Male,31-40 years,Senior High School,Management team,<= 5 years,Mojokerto,F&B,1-4 workers,<=5 years,Never partnered,MSME-Government-University,6,3,4,5,6,5,6,6,6,5,6,6,6,4,4,5,4,4,5,3,4,5,4,4,4,4,4
+Female,41-50 years,Senior High School,Owner,6-10 years,Sidoarjo,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,6,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,31-40 years,Bachelor,Others,6-10 years,Bangkalan,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,5,6,6,6,7,6,7,6,6,6,6,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Bachelor,Owner,<= 5 years,Bulukumba,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,5,5,4,4,4,4,5,5,5,5,5,5,5,5,2
+Male,31-40 years,Senior High School,Others,6-10 years,Purwokerto,Online Shop,1-4 workers,6-10 years,MSME-University,Never partnered,5,5,5,5,5,5,5,5,5,5,5,5,5,3,3,3,3,4,5,4,4,3,4,4,3,3,4
+Female,31-40 years,Senior High School,Owner,<= 5 years,Bogor,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,5,5,5,5,6,5,6,5,6,5,6,7,4,4,5,4,4,4,4,5,4,4,4,4,4,4
+Male,41-50 years,Senior High School,Owner,6-10 years,Pamekasan,Trading,1-4 workers,6-10 years,Never partnered,Never partnered,7,7,7,6,6,6,7,7,6,6,5,5,7,3,5,5,4,5,5,4,3,2,3,4,4,4,4
+Male,41-50 years,Master,Others,<= 5 years,Garut,Trading,1-4 workers,<=5 years,MSME-Industry,Never partnered,3,3,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,4,2,2,2,4,4,3,3,4
+Male,<= 30 years,Senior High School,Others,<= 5 years,Aceh,Furniture,1-4 workers,<=5 years,MSME-University,Never partnered,4,2,7,3,3,4,2,3,6,3,5,5,4,2,2,2,3,1,2,2,1,4,3,4,4,3,1
+Female,41-50 years,Senior High School,Others,<= 5 years,Jember,Online shop,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,7,7,1,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,3
+Female,31-40 years,Senior High School,Owner,6-10 years,Cianjur,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,4,3,7,4,2,3,6,5,5,6,7,7,4,3,4,4,5,5,5,3,4,4,4,4,4,4
+Male,<= 30 years,Senior High School,Management team,<= 5 years,Kendari,Unloading company,1-4 workers,<=5 years,Never partnered,Never partnered,4,2,4,4,2,4,5,6,5,5,5,5,5,2,3,4,4,5,5,5,4,3,4,4,4,4,2
+Female,31-40 years,Master,Owner,<= 5 years,Surabaya,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,6,7,7,7,7,6,7,7,7,7,7,7,4,5,5,5,5,4,5,4,4,4,5,5,5,4
+Male,<= 30 years,Bachelor,Others,<= 5 years,Lampung,Trading,1-4 workers,<=5 years,MSME-Government,Never partnered,1,4,1,4,3,5,3,4,4,4,4,4,5,2,3,3,3,3,3,3,3,3,3,3,3,3,3
+Male,41-50 years,Bachelor,Management team,<= 5 years,Tasikmalaya,Trading,1-4 workers,<=5 years,MSME-Government,Never partnered,5,5,4,5,5,6,6,6,6,5,5,6,6,4,3,3,3,4,5,3,3,3,3,3,3,3,3
+Male,31-40 years,Bachelor,Owner,11-15 years,Pandeglang,Trading,1-4 workers,11-15 years,MSME-Government,Never partnered,7,5,5,7,5,7,7,7,7,6,7,7,7,4,4,5,3,5,5,5,5,5,5,5,5,5,4
+Male,<= 30 years,Senior High School,Management team,<= 5 years,Lampung,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,7,6,6,6,6,6,6,6,6,7,7,7,7,4,3,4,4,4,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Senior High School,Owner,<= 5 years,Semarang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,3,7,4,7,5,7,7,4,4,7,7,5,3,5,3,5,5,3,5,4,5,5,5,5,5
+Male,31-40 years,Bachelor,Owner,<= 5 years,Cianjur,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,3,5,5,5,5,5,5,5,5,4,5,5,3,3,3,2,2,1,2,2,1,2,2,2,2,2
+Male,31-40 years,Senior High School,Owner,<= 5 years,Sumbawa,Tourism,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,5,5,7,7,7,7,7,6,6,5,7,7,5,4,5,5,5,5,4,5,5,5,5,5,5,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Surabaya,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,4,4,4,4
+Male,41-50 years,Senior High School,Management team,<= 5 years,Surabaya,Trading,1-4 workers,6-10 years,Never partnered,Never partnered,7,7,7,1,7,7,7,7,7,7,7,7,7,3,3,3,3,5,5,5,5,3,3,3,3,3,3
+Male,31-40 years,Senior High School,Owner,<= 5 years,Sukoharjo,Fashion,1-4 workers,<=5 years,Never partnered,Never partnered,6,5,1,5,4,6,6,6,6,4,3,3,6,2,2,3,2,2,3,2,2,2,2,2,2,2,2
+Female,31-40 years,Bachelor,Owner,<= 5 years,Madiun,F&B,1-4 workers,<=5 years,MSME-Industry,Never partnered,5,5,4,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,3,4,4,4,3,3
+Female,31-40 years,Bachelor,Owner,6-10 years,Cianjur,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,4,4,4,4,4,4,7,7,7,7,7,7,7,4,4,4,4,4,5,5,5,3,5,5,5,3,3
+Male,41-50 years,Junior High School,Owner,<= 5 years,Malang,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,6,7,6,7,7,7,7,7,6,7,7,7,7,5,5,5,5,5,4,4,5,5,5,5,5,5,5
+Male,31-40 years,Bachelor,Owner,<= 5 years,Wonosobo,Farm,1-4 workers,<=5 years,Never partnered,Never partnered,6,4,3,5,4,7,5,5,5,5,5,5,7,4,4,5,5,4,5,5,5,5,5,5,5,5,5
+Female,41-50 years,Bachelor,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,5,5,5,5,5,5,6,7,5,6,5,7,4,5,4,4,4,4,3,4,3,3,4,4,4,3
+Female,51-60 years,Senior High School,Owner,<= 5 years,Denpasar,Craft,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,5,7,6,7,7,7,7,7,7,7,7,5,5,4,5,5,5,5,5,4,5,4,5,2,3
+Male,<= 30 years,Bachelor,Management team,<= 5 years,Surabaya,Trading,5-19 workers,16-20 years,Never partnered,Never partnered,7,7,5,5,7,5,7,7,6,4,5,6,5,3,3,5,5,3,5,5,5,5,5,5,5,5,5
+Male,51-60 years,Master,Others,<= 5 years,Kota Banjar,Trading,5-19 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,5,2,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,2,4,5,5,5,5,5,5
+Female,41-50 years,Bachelor,Owner,11-15 years,Surabaya,Design,1-4 workers,11-15 years,MSME-Government,Never partnered,7,7,7,7,7,7,7,4,7,5,5,7,7,3,3,5,5,5,5,5,3,5,5,5,5,5,5
+Female,51-60 years,Senior High School,Owner,6-10 years,Bandung,F&B,5-19 workers,6-10 years,MSME-Government,Never partnered,6,3,3,7,4,7,7,7,7,5,7,7,7,5,5,5,5,5,5,5,5,5,4,4,5,4,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,4,4,5,6,6,6,6,5,5,6,5,6,5,4,4,4,4,4,4,3,4,4,4,4,4,3,4
+Female,31-40 years,Senior High School,Owner,<= 5 years,Makassar,Fashion,1-4 workers,<=5 years,MSME-Government,Never partnered,7,6,7,7,6,7,7,7,7,7,7,7,7,3,3,5,5,5,3,3,5,5,5,5,5,5,5
+Female,<= 30 years,Bachelor,Owner,<= 5 years,Lombok Timur,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,7,1,1,1,3,3,3,4,3,5,3,4,4,3,3,3,3,3,4,4,1,1,1,1,1,1,1
+Male,31-40 years,Bachelor,Owner,6-10 years,Tulungagung,Trading,1-4 workers,<=5 years,Never partnered,Never partnered,7,5,5,6,6,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,51-60 years,Bachelor,Owner,6-10 years,Solo,Agriculture,1-4 workers,<=5 years,Never partnered,Never partnered,7,1,7,7,4,7,5,7,7,7,7,7,7,4,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Pekanbaru,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,6,6,5,4,6,6,6,6,6,6,6,6,4,4,4,4,4,5,4,4,4,4,4,4,4,4
+Female,41-50 years,Senior High School,Owner,<= 5 years,Depok,Traditional medicines,1-4 workers,<=5 years,MSME-Government,MSME-Government-Industry,7,6,5,6,7,7,7,7,7,6,7,7,7,4,4,5,5,4,5,3,5,5,5,4,5,4,5
+Male,41-50 years,Master,Owner,6-10 years,Jember,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,7,6,6,7,6,6,6,6,6,6,6,6,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,51-60 years,Bachelor,Owner,6-10 years,Sukabumi,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,7,7,7,6,5,6,6,5,5,5,5,7,6,5,5,4,4,5,4,4,4,4,5,4,5,3,3
+Female,41-50 years,Senior High School,Management team,6-10 years,Malang,F&B,1-4 workers,6-10 years,MSME-Government,MSME-Government-Industry,7,4,5,4,4,6,7,7,4,5,4,7,6,4,4,3,4,4,5,3,3,3,5,3,4,4,3
+Male,41-50 years,Bachelor,Owner,6-10 years,Purwokerto,F&B,1-4 workers,6-10 years,MSME-University,Never partnered,5,4,5,5,4,5,6,5,5,4,3,6,5,4,3,5,3,3,4,5,5,4,5,5,5,5,4
+Female,41-50 years,Senior High School,Owner,6-10 years,Bandung,F&B,5-19 workers,6-10 years,Never partnered,Never partnered,7,6,7,7,7,7,7,6,7,7,7,7,7,5,5,5,5,5,5,4,4,4,2,5,5,5,5
+Female,41-50 years,Senior High School,Owner,<= 5 years,Bandung,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,4,1,5,6,6,6,7,6,6,7,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Others,<= 5 years,Sukabumi,F&B,5-19 workers,6-10 years,Never partnered,Never partnered,6,2,4,6,5,6,6,6,5,6,6,6,6,2,2,3,4,3,4,2,4,4,2,3,3,3,3
+Female,31-40 years,Junior High School,Owner,<= 5 years,Garut,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,4,1,3,3,7,3,6,7,3,3,4,2,2,2,2,2,2,3,2,2,2,3,2,3,2,1
+Male,<= 30 years,Senior High School,Others,<= 5 years,Surabaya,Trading,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,7,7,7,7,6,5,7,7,7,7,6,5,3,5,5,5,4,1,2,2,3,2,3,2,3
+Male,31-40 years,Bachelor,Owner,6-10 years,Surabaya,Trading,1-4 workers,6-10 years,Never partnered,Never partnered,5,1,2,6,4,6,4,6,6,6,6,7,5,3,3,5,3,3,5,5,3,4,4,4,4,4,5
+Female,41-50 years,Master,Owner,16-20 years,Tanjung Pinang,F&B,1-4 workers,16-20 years,MSME-Government,MSME-Government-Industry,7,4,4,4,7,7,7,7,7,7,7,7,7,5,3,5,5,5,5,5,5,5,5,5,5,3,5
+Female,41-50 years,Senior High School,Owner,6-10 years,Depok,Trading,1-4 workers,6-10 years,MSME-Industry,MSME-Government-Industry,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Male,<= 30 years,Senior High School,Others,<= 5 years,Sukabumi,Fireworks maker,1-4 workers,<=5 years,Never partnered,Never partnered,4,2,5,3,3,5,4,5,4,5,5,5,5,3,4,4,3,5,3,3,4,3,3,3,3,3,3
+Female,31-40 years,Bachelor,Management team,<= 5 years,Yogyakarta,Fashion,1-4 workers,<=5 years,Never partnered,Never partnered,5,6,4,6,6,6,5,5,6,4,4,6,6,3,5,5,5,5,5,4,3,3,4,3,4,3,3
+Male,41-50 years,Bachelor,Owner,<= 5 years,Lumajang,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,3,3,5,3,5,5,5,5,3
+Female,41-50 years,Bachelor,Owner,<= 5 years,Depok,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,7,7,4,7,4,5,6,7,7,7,7,5,6,3,3,3,4,4,5,5,3,3,4,3,5,5,3
+Male,41-50 years,Senior High School,Owner,<= 5 years,Bekasi,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,4,7,7,7,7,7,7,5,7,7,7,5,5,5,5,5,5,5,5,5,5,5,5,5,4
+Female,31-40 years,Bachelor,Owner,<= 5 years,Depok,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,7,5,3,7,3,2,5,4,4,4,4,3,3,3,3,3,4,3,3,3,3,2,3,2,3
+Female,41-50 years,Senior High School,Owner,<= 5 years,Bukittinggi,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,6,6,5,6,2,6,6,6,6,6,6,7,6,5,2,3,4,5,4,1,1,4,4,5,5,4,4
+Male,51-60 years,Senior High School,Owner,6-10 years,Yogyakarta,F&B,5-19 workers,6-10 years,MSME-Government,MSME-Government-Industry,7,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,4,5,5,5
+Female,41-50 years,Senior High School,Owner,6-10 years,Semarang,F&B,1-4 workers,6-10 years,Never partnered,Never partnered,6,6,6,6,6,7,6,6,6,6,6,6,6,5,5,5,4,5,5,5,4,5,5,5,5,5,5
+Female,<= 30 years,Senior High School,Management team,<= 5 years,Malang,Craft,1-4 workers,<=5 years,Never partnered,Never partnered,5,7,5,5,5,5,5,5,5,5,5,5,6,3,3,4,4,4,5,5,5,5,5,5,5,5,5
+Female,31-40 years,Senior High School,Owner,<= 5 years,Depok,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,5,4,7,6,7,5,5,3,6,6,6,4,3,3,4,3,1,3,4,4,5,3,3,3,3,3,3
+Female,51-60 years,Bachelor,Others,<= 5 years,Jakarta,Trading,1-4 workers,<=5 years,MSME-Industry,Never partnered,7,7,7,6,6,5,7,6,5,5,6,6,5,1,1,5,5,3,4,4,4,4,4,4,5,4,4
+Female,41-50 years,Senior High School,Owner,<= 5 years,Jakarta,F&B,1-4 workers,<=5 years,MSME-Government,Never partnered,7,6,6,7,6,7,7,7,7,6,6,7,7,5,5,5,5,5,5,5,5,4,5,5,5,5,5
+Female,31-40 years,Bachelor,Owner,<= 5 years,Sumbawa,F&B,1-4 workers,<=5 years,Never partnered,Never partnered,7,7,5,5,3,7,7,7,7,7,7,7,7,5,5,5,5,5,5,5,5,5,5,4,5,5,5
+Male,<= 30 years,Bachelor,Management team,<= 5 years,Pontianak,F&B,1-4 workers,6-10 years,MSME-Government,Never partnered,1,5,3,4,3,5,6,5,6,6,6,4,4,4,4,3,4,3,5,4,4,2,4,3,3,2,3
+Male,41-50 years,Senior High School,Owner,<= 5 years,Sukoharjo,Farm,1-4 workers,<=5 years,Never partnered,Never partnered,4,1,3,4,5,5,4,6,5,4,5,6,4,3,3,2,3,4,2,2,1,2,3,4,3,3,3
+Male,41-50 years,Senior High School,Owner,11-15 years,Demak,Craft,1-4 workers,6-10 years,MSME-Government,MSME-Government-University,6,6,5,2,5,4,6,7,6,6,7,6,7,4,4,2,3,4,4,4,3,1,4,4,4,3,3
+Male,51-60 years,Master,Owner,<= 5 years,Jakarta,Contractor,1-4 workers,<=5 years,Never partnered,Never partnered,5,2,1,4,4,5,2,5,5,3,5,5,5,1,1,4,3,2,4,4,1,1,2,4,5,2,2
